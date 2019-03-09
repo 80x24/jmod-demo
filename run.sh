@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java-runtime/bin/java --module-path lib --module crypto
+java-runtime/bin/java --module-path lib -jar crypto.jar
